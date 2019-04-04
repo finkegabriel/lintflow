@@ -1,5 +1,5 @@
 #!/bin/sh
-. env.sh
+. env.sh #might have to tweak this for your box
 
 function main{
 	case $1 in
